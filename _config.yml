@@ -2,6 +2,7 @@ name: Unpopular Opinion
 favicon: null
 layout_spectrum: 0.19616855354979634
 typography_spectrum: 0.59731859061867
+title: Unpopular Opinions
 cta:
   domain: null
   bucket: null
