@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Unpopular Opinion]]></title>
+        <description><![CDATA[Unpopular Opinion]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 18:10:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>This is a test post, we are just testing out the functionality of Grid to see how this works when creating something. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c252c55d0ae09c4eda3990da8d830141260172.jpg"></article>]]></description>
+            <link>undefinedtest-post/index.html</link>
+            <guid isPermaLink="false">6bf7be4c-2cdd-4a30-b733-d97430eedb74</guid>
+            <pubDate>Thu, 07 Jan 2016 18:10:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
