@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Unpopular Opinion]]></title>
         <description><![CDATA[Unpopular Opinion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/unpopular-opinion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 18:10:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 18:13:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unpopular-opinion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1d9a0a4-22c6-4b90-bb7b-af3e9b2256a1.jpg">]]></description>
+            <link>https://thegrid.ai/unpopular-opinion/f1702876-fbbd-47d0-9d95-d685a9d24c2e/index.html</link>
+            <guid isPermaLink="false">f1702876-fbbd-47d0-9d95-d685a9d24c2e</guid>
+            <pubDate>Thu, 07 Jan 2016 18:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<article><h1>Test Post</h1><p>This is a test post, we are just testing out the functionality of Grid to see how this works when creating something. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c252c55d0ae09c4eda3990da8d830141260172.jpg"></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/unpopular-opinion/test-post/index.html</link>
             <guid isPermaLink="false">6bf7be4c-2cdd-4a30-b733-d97430eedb74</guid>
             <pubDate>Thu, 07 Jan 2016 18:10:04 GMT</pubDate>
         </item>
